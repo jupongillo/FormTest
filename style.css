@@ -90,8 +90,10 @@ main form input {
     border-radius: 8px;
     color: whitesmoke;
     cursor: pointer;
+    transition: all .2s ease-in-out;
 }
 
 #submit:hover {
+    letter-spacing: 0.8px;
     background: #8641d1;
 }
